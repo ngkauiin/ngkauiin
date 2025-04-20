@@ -4,13 +4,13 @@ I'm a self-taught frontend developer based in Brisbane, Australia. Currently tra
 I have had some experience with web development using some fundamental HTML, CSS and JavaScript coding during university, so I am picking them up again and being more seriously about becoming a developer.
 I'm learning through different online courses/tutorials and bootcamps with a focus on React and building practical web projects.
 
-## 🚀 Current Goals 
+# 🚀 Current Goals 
  - Revisit and learn HTML, CSS, Javascript
  - Learn React, Git/GitHub
  - Build 5+ real-world projects
  - Land my first frontend developer job in 9 months
 
-## 💻 Tech Stack
+# 💻 Tech Stack
  - Languages: HTML, CSS, Javascript
  - Tools: Git, GitHub, VS Code
  - Learning: React, MongoDB
