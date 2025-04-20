@@ -1,5 +1,21 @@
 ## Hi there 👋
 
+I'm a self-taught frontend developer based in Brisbane, Australia. Currently transitioning from a career in fitness to become a web developer. 
+I have had some experience with web development using some fundamental HTML, CSS and JavaScript coding during university, so I am picking them up again and being more seriously about becoming a developer.
+I'm learning through different online courses/tutorials and bootcamps with a focus on React and building practical web projects.
+
+## 🚀 Current Goals 
+ - Revisit and learn HTML, CSS, Javascript
+ - Learn React, Git/GitHub
+ - Build 5+ real-world projects
+ - Land my first frontend developer job in 9 months
+
+## 💻 Tech Stack
+ - Languages: HTML, CSS, Javascript
+ - Tools: Git, GitHub, VS Code
+ - Learning: React, MongoDB
+
+
 <!--
 **ngkauiin/ngkauiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
