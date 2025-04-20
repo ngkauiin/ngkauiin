@@ -5,8 +5,8 @@ I have had some experience with web development using some fundamental HTML, CSS
 I'm learning through different online courses/tutorials and bootcamps with a focus on React and building practical web projects.
 
 ### 🚀 Current Goals 
- - Revisit and learn HTML, CSS, Javascript
- - Learn React, Git/GitHub
+ - Learn advanced HTML, CSS, Javascript
+ - Learn React, Git/GitHub, Databases (MongoDB/SQL), NodeJS
  - Build 5+ real-world projects
  - Land my first frontend developer job in 9 months
 
