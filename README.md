@@ -10,6 +10,8 @@ I'm learning through different online courses/tutorials and bootcamps with a foc
  - Build 5+ real-world projects
  - Land my first frontend developer job in 9 months
 
+### Live Demo
+- [Odin Recipe](https://ngkauiin.github.io/odin-recipes/)
 <!-- ### 💻 Tech Stack
  - Languages: HTML, CSS, Javascript
  - Tools: Git, GitHub, VS Code
