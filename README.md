@@ -10,9 +10,10 @@ I'm learning through different online courses/tutorials and bootcamps with a foc
  - Build 5+ real-world projects
  - Land my first frontend developer job in 9 months
 
-### Live Demo
-* [Odin Recipe](https://ngkauiin.github.io/odin-recipes/)
-* [Odin Landing Page](https://ngkauiin.github.io/odin-landing-page/) 
+### :tram: Live Demo
+* [Odin Recipe Page](https://ngkauiin.github.io/odin-recipes/) - (currently only HTML)
+* [Landing Page](https://ngkauiin.github.io/odin-landing-page/) - (currently only HTML & CSS)
+* [Rock Paper Scissor Game](https://ngkauiin.github.io/odin-rock-paper-scissors/) - (currently only JS)
 <!-- ### 💻 Tech Stack
  - Languages: HTML, CSS, Javascript
  - Tools: Git, GitHub, VS Code
