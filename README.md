@@ -11,9 +11,10 @@ I'm learning through different online courses/tutorials and bootcamps with a foc
  - Land my first frontend developer job in 9 months
 
 ### :tram: Live Demo
-* [Odin Recipe Page](https://ngkauiin.github.io/odin-recipes/) - (`HTML`)
-* [Landing Page](https://ngkauiin.github.io/odin-landing-page/) - (`HTML`, `CSS` `flexbox`)
-* [Rock Paper Scissor Game](https://ngkauiin.github.io/odin-rock-paper-scissors/) - (`HTML`, `CSS` `flexbox`, `JavaScript`)
+* [Odin Recipe Page](https://ngkauiin.github.io/odin-recipes/) - [repo](https://github.com/ngkauiin/odin-recipes)
+* [Landing Page](https://ngkauiin.github.io/odin-landing-page/) - [repo](https://github.com/ngkauiin/odin-landing-page)
+* [Rock Paper Scissor Game](https://ngkauiin.github.io/odin-rock-paper-scissors/) - [repo](https://github.com/ngkauiin/odin-rock-paper-scissors)
+* [Etch-A-Sketch](https://ngkauiin.github.io/odin-etch-a-sketch/) - [repo](https://github.com/ngkauiin/odin-etch-a-sketch)
 <!-- ### 💻 Tech Stack
  - Languages: HTML, CSS, Javascript
  - Tools: Git, GitHub, VS Code
