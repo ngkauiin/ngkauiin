@@ -15,6 +15,7 @@ I'm learning through different online courses/tutorials and bootcamps with a foc
 * [Landing Page](https://ngkauiin.github.io/odin-landing-page/) - [repo](https://github.com/ngkauiin/odin-landing-page)
 * [Rock Paper Scissor Game](https://ngkauiin.github.io/odin-rock-paper-scissors/) - [repo](https://github.com/ngkauiin/odin-rock-paper-scissors)
 * [Etch-A-Sketch](https://ngkauiin.github.io/odin-etch-a-sketch/) - [repo](https://github.com/ngkauiin/odin-etch-a-sketch)
+* [Calculator](https://ngkauiin.github.io/odin-calculator/) - [repo](https://github.com/ngkauiin/odin-calculator)
 <!-- ### 💻 Tech Stack
  - Languages: HTML, CSS, Javascript
  - Tools: Git, GitHub, VS Code
