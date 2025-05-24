@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 I'm a self-taught frontend developer based in Brisbane, Australia. Currently transitioning from a career in fitness to become a web developer. 
-I have had some experience with web development using some fundamental HTML, CSS and JavaScript coding during university, so I am picking them up again and being more seriously about becoming a developer.
+I have had experience with web development using some fundamental HTML, CSS and JavaScript coding during university, so I am picking them up again and being more seriously about becoming a developer.
 I'm learning through different online courses/tutorials and bootcamps with a focus on React and building practical web projects.
 
 ### 🚀 Current Goals 
