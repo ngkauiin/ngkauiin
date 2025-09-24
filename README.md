@@ -1,14 +1,17 @@
-## Hi there 👋
+# Hi there, I'm Vincent
 
-I'm a self-taught frontend developer based in Brisbane, Australia. Currently transitioning from a career in fitness to become a web developer. 
-I have had experience with web development using some fundamental HTML, CSS and JavaScript coding during university, so I am picking them up again and being more seriously about becoming a developer.
-I'm learning through different online courses/tutorials and bootcamps with a focus on React and building practical web projects.
+I am an enthusiastic and detail-oriented cybersecurity analyst, who enjoys making a positive impact on organizations and the people it serves. I love protecting the confidentiality, integrity and availability of assets by actively identifying and analyzing potential risks, threats and vulnerabilities to security.
 
-### 🚀 Current Goals 
- - Learn advanced HTML, CSS, Javascript
- - Learn React, Git/GitHub, Databases (MongoDB/SQL), NodeJS
- - Build 5+ real-world projects
- - Land my first frontend developer job in 9 months
+## Objective
+My interest in IT has led me to develop a passion for cybersecurity. I am excited to transition into this field.
+
+## Skills
+|Skill  | Associated Project |
+|-------|--------------------|
+|Manage files/directories permissions| [File permissions in Linux](https://docs.google.com/document/d/1eheWJYHVsm1r6_8Lu91KSlD3VsImyK3NxmQ2Kz5LE9k/edit?usp=sharing) |
+
+## Tools
+
 
 ### :tram: Live Demo
 * [Odin Recipe Page](https://ngkauiin.github.io/odin-recipes/) - [repo](https://github.com/ngkauiin/odin-recipes)
@@ -39,3 +42,34 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<!-- # cybersecurity
+# Professional statement
+I am an enthusiastic and detail-oriented cybersecurity analyst, who enjoys making a positive impact on organizations and the people it serves. I love protecting the confidentiality, integrity and availability of assets by actively identifying and analyzing potential risks, threats and vulnerabilities to security.
+
+## Strengths
+* Strong written and verbal communication
+* Detail oriented
+* Time management
+* Programming
+* Problem solving
+* Growth mindset
+* Diverse perspective
+
+## Values
+* protecting organizations
+* protecting people
+* high ethical mindset
+
+## clarifying questions
+1. What most interests me about the field of cybersecurity?  
+Able to make positive impact on organisations and the people it serves. 
+
+2. Who is the audience for my professional statement (e.g., cybersecurity recruiters, specific organizations, government employers, etc.)?  
+cybersecurity recruiters, government employers
+
+3. In what ways can my strengths, values, and interest in cybersecurity support the security goals of various organizations?  
+I always have the mission to help people in whatever way possible. And cybersecurity can fulfill my purpose. Helping organizations to protect their assets and people is very exciting to me.  
+My strength in communication and diverse perspective allow me to work with people with different backgrounds to prevent and mitigate risks and threats efficiently.  
+My values are very well aligns with being a security analyst. I am a very ethical person, and doing something that is meaningful to the world is my forever purpose. -->
