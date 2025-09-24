@@ -1,11 +1,11 @@
-# Hi there, I'm Vincent
+## Hi there, I'm Vincent
 
 I am an enthusiastic and detail-oriented cybersecurity analyst, who enjoys making a positive impact on organizations and the people it serves. I love protecting the confidentiality, integrity and availability of assets by actively identifying and analyzing potential risks, threats and vulnerabilities to security.
 
-## Objective
+### Objective
 My interest in IT has led me to develop a passion for cybersecurity. I am excited to transition into this field.
 
-## Skills
+### Skills
 |Skill  | Associated Project |
 |-------|--------------------|
 |Manage files/directories permissions| [File permissions in Linux](https://docs.google.com/document/d/1eheWJYHVsm1r6_8Lu91KSlD3VsImyK3NxmQ2Kz5LE9k/edit?usp=sharing) |
