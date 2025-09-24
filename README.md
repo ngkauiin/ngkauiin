@@ -1,4 +1,6 @@
 ## Hi there, I'm Vincent
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue
+)](https://www.linkedin.com/in/kuaiin-vincent-ng/) 
 
 I am an enthusiastic and detail-oriented cybersecurity analyst, who enjoys making a positive impact on organizations and the people it serves. I love protecting the confidentiality, integrity and availability of assets by actively identifying and analyzing potential risks, threats and vulnerabilities to security.
 
@@ -10,7 +12,7 @@ My interest in IT has led me to develop a passion for cybersecurity. I am excite
 |-------|--------------------|
 |Manage files/directories permissions| [File permissions in Linux](https://docs.google.com/document/d/1eheWJYHVsm1r6_8Lu91KSlD3VsImyK3NxmQ2Kz5LE9k/edit?usp=sharing) |
 
-## Tools
+<!-- ### Tools
 
 
 ### :tram: Live Demo
@@ -19,7 +21,9 @@ My interest in IT has led me to develop a passion for cybersecurity. I am excite
 * [Rock Paper Scissor Game](https://ngkauiin.github.io/odin-rock-paper-scissors/) - [repo](https://github.com/ngkauiin/odin-rock-paper-scissors)
 * [Etch-A-Sketch](https://ngkauiin.github.io/odin-etch-a-sketch/) - [repo](https://github.com/ngkauiin/odin-etch-a-sketch)
 * [Calculator](https://ngkauiin.github.io/odin-calculator/) - [repo](https://github.com/ngkauiin/odin-calculator)
-* [Sign Up Form](https://ngkauiin.github.io/odin-sign-up-form/) - [repo](https://github.com/ngkauiin/odin-sign-up-form)
+* [Sign Up Form](https://ngkauiin.github.io/odin-sign-up-form/) - [repo](https://github.com/ngkauiin/odin-sign-up-form) -->
+
+
 <!-- ### 💻 Tech Stack
  - Languages: HTML, CSS, Javascript
  - Tools: Git, GitHub, VS Code
